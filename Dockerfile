@@ -1,6 +1,6 @@
 FROM debian:wheezy
 
-MAINTAINER Kristian Du <kristian.du@gmail.com>
+MAINTAINER Johnny Tsao
 
 ADD oracle-xe_10.2.0.1-1.1_i386.debaa /
 ADD oracle-xe_10.2.0.1-1.1_i386.debab /
